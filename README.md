@@ -1,1 +1,1 @@
-# Mehakkhan
+# Hi! My name is Mehak Khan, I have completed a Ph.D. in Computer Science and Technology from Harbin Insitute of Technology. During my Ph.D., I worked towards proposing robust time series classification algorithms using deep learning techniques and published the results in prestigious scientific journals. Currently, I am working on deploying Machine Learning techniques for Graphs mainly for Citation Networks. For more information you can checkout my Linkedin (https://www.linkedin.com/in/mehakkhan7/).
